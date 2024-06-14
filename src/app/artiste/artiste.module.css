@@ -1,0 +1,53 @@
+.container {
+  display: flex;
+  gap: 10px;
+  height: calc(100vh - 200px);
+  padding: 10px;
+}
+
+.textContainer {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  font-size: 2rem;
+  font-weight: 700;
+  color: var(--txtBlack);
+}
+
+.description {
+  font-size: 1rem;
+  color: var(--txtBlack);
+}
+
+.buttons {
+  display: flex;
+  gap: 20px;
+}
+
+.button {
+  padding: 20px;
+  background-color: var(--bgBlue);
+  border-radius: 5px;
+  color: var(--txtWhite);
+  border: none;
+  font-size: large;
+}
+
+.imgContainer {
+  display: flex;
+  width: 50%;
+}
+
+@media (max-width: 768px) {
+  .container {
+    display: flex;
+    flex-direction: column;
+  }
+}

@@ -1,0 +1,42 @@
+@tailwind base;
+/*
+@tailwind components;
+*/
+@tailwind utilities;
+
+:root {
+  --txtWhite: whitesmoke;
+  --txtBlack: #36454f;
+  --bgLight: #f9f6ee;
+  --bgBlue: lightblue;
+  --bgNeutral: #ead7c6;
+}
+
+.light {
+  --txtWhite: whitesmoke;
+  --txtBlack: #36454f;
+  --bgLight: #f9f6ee;
+  --bgBlue: lightblue;
+  --bgNeutral: #ead7c6;
+}
+
+.dark {
+  --txtWhite: #f9f9f9; /* White text color */
+  --txtBlack: #dcdcdc; /* Light gray text color */
+  --bgLight: #262626; /* Light black background color */
+  --bgBlue: #7393b3; /* Blue background color */
+  --bgNeutral: #3e3e3e; /* Dark gray background color */
+}
+
+body {
+  color: var(--txtBlack);
+  background-color: var(--bgLight);
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 100vh;
+  background-color: var(--bgLight);
+}

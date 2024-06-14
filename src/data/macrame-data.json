@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "titre": "Mon 1e macramé",
+    "description": "Notre motif le plus simple. Parfait pour les débutants.",
+    "difficulté": "Débutant",
+    "prix": "$30/personne",
+    "srcImg": "./s1.jpg",
+    "altText": "Mon 1e macramé"
+  },
+  {
+    "id": 2,
+    "titre": "Cintre pour plantes",
+    "description": "Créer votre propre cintre pour plantes!",
+    "difficulté": "Débutant",
+    "prix": "$20/personne",
+    "srcImg": "./s2.jpg",
+    "altText": "Cintre pour plantes"
+  },
+  {
+    "id": 3,
+    "titre": "Napperons",
+    "description": "Nouez des napperons en buvant un bon Navarro.",
+    "difficulté": "Débutant",
+    "prix": "$35/personne",
+    "srcImg": "./s3.jpg",
+    "altText": "Napperons"
+  },
+  {
+    "id": 4,
+    "titre": "Labyrinthe",
+    "description": "Testez vos compétences avec ce motif avancé.",
+    "difficulté": "Intermédiare",
+    "prix": "$40/personne",
+    "srcImg": "./s4.jpg",
+    "altText": "Labyrinthe"
+  },
+  {
+    "id": 5,
+    "titre": "Décoration de Noël",
+    "description": "Célébrez le temps des fëtes avec ce motif simple.",
+    "difficulté": "Intermédiare",
+    "prix": "$25/personne",
+    "srcImg": "./s5.jpg",
+    "altText": "Décoration de Noël"
+  },
+  {
+    "id": 6,
+    "titre": "Accrochage mural",
+    "description": "Simple mais élégant, comme un verre de Pinot Gris.",
+    "difficulté": "Débutant",
+    "prix": "$35/personne",
+    "srcImg": "./s6.jpg",
+    "altText": "Accrochage mural"
+  },
+  {
+    "id": 7,
+    "titre": "Tapi",
+    "description": "Préparez-vous à nouer un projet simple mais exigeant.",
+    "difficulté": "Intermédiare",
+    "prix": "$50/personne",
+    "srcImg": "./s11.jpg",
+    "altText": "Tapi"
+  },
+  {
+    "id": 8,
+    "titre": "Têtes de flêche",
+    "description": "Un motif avancé pour ceux qui cherchent un défi.",
+    "difficulté": "Avancé",
+    "prix": "$55/personne",
+    "srcImg": "./s8.jpg",
+    "altText": "Têtes de flêche"
+  }
+]

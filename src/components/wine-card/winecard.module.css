@@ -1,0 +1,56 @@
+.containerCard {
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+  border: solid 1px lightgray;
+  border-radius: 10px;
+  box-shadow: 2px 2px 4px var(--txtBlack);
+  align-items: center;
+  margin: 5px;
+  padding: 10px;
+  padding-top: 30px;
+  background-color: var(--bgLight);
+  transition: transform 0.3s ease-in-out;
+  position: relative;
+  justify-content: space-between;
+}
+
+.containerCard:hover {
+  transform: scale(1.03);
+}
+
+.imgCard {
+  max-height: 400px;
+  width: 300px;
+  border: solid 1px lightgray;
+  border-radius: 10px;
+}
+
+.title,
+.vignoble,
+.description {
+  color: var(--txtBlack);
+  margin: 8px;
+  text-align: center;
+  font-size: large;
+}
+
+.description {
+  padding: 0 30px;
+  font-size: medium;
+  flex-grow: 1;
+}
+
+.buttonContainer {
+  margin-top: auto;
+  margin-bottom: 20px;
+}
+
+.button {
+  background-color: var(--bgBlue);
+  color: var(--txtWhite);
+  padding: 10px;
+  border-radius: 5px;
+  font-size: large;
+  border: none;
+}

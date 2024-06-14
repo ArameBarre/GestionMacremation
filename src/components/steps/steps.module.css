@@ -1,0 +1,36 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 20%;
+  margin: 10px;
+  transition: transform 0.3s ease-in-out;
+  border-radius: 10px;
+  background-color: var(--bgNeutral);
+  box-shadow: 2px 2px 4px var(--txtBlack);
+}
+
+.container:hover {
+  transform: scale(1.1);
+}
+
+.image {
+  border-radius: 10px;
+  box-shadow: 2px 2px 4px var(--txtBlack);
+  height: 200px;
+  width: 200px;
+  margin-top: 20px;
+  background-size: cover;
+}
+
+.icon {
+  height: 50px;
+  width: 50px;
+  margin-top: 10px;
+}
+
+.text {
+  color: var(--txtBlack);
+  font-size: large;
+}

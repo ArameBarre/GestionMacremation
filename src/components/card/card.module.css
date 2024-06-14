@@ -1,0 +1,38 @@
+.containerCard {
+  width: 220px;
+  border-radius: 0.7rem;
+  box-shadow: 0 5px 8px white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0.5rem;
+  background-color: var(--bgNeutral);
+  min-height: 400px;
+  transition: transform 0.3s ease-in-out; /* Add a smooth transition */
+  color: var(--txtBlack);
+  padding: 15px;
+}
+
+.containerCard:hover {
+  transform: scale(1.1);
+}
+
+.imgContainer {
+  width: 210px;
+  height: 210px;
+  border-radius: 0.7rem 0.7rem;
+}
+
+.title {
+  font-size: 1.5rem;
+  font-size: 700;
+}
+
+.button {
+  background-color: var(--bgBlue);
+  color: var(--txtWhite);
+  padding: 10px;
+  border-radius: 5px;
+  font-size: large;
+  border: none;
+}

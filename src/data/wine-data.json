@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Zweigelt Rosé",
+    "description": "Les violettes rencontrent les baies suédoises dans l'arôme.",
+    "src": "v1.webp",
+    "alt": "Zweigelt Rosé",
+    "vignoble": "ibi"
+  },
+  {
+    "id": 2,
+    "name": "Resinto",
+    "description": "Au niveau de l'arôme, on retrouve de la cire d'abeille chaude et de l'abricot avec une touche de sapin.",
+    "src": "v2.webp",
+    "alt": "Riesling",
+    "vignoble": "ibi"
+  },
+  {
+    "id": 3,
+    "name": "Dottie",
+    "description": "Dottie sent la pêche des bonbons Hi-chew, et le Oolong au lait. Elle a le goût du miel, du jasmin et du thé à la fleur de tilleul.",
+    "src": "v3.webp",
+    "alt": "Gewürztraminer",
+    "vignoble": "ibi"
+  },
+  {
+    "id": 4,
+    "name": "Compañeros",
+    "description": "Très jolie robe de macération. Ouverture très charmeuse dominée par les fruits exotiques. Le vin est sec, enrobé d’une belle texture et rempli la bouche de plaisir!",
+    "src": "v4.webp",
+    "alt": "Pinot Gris",
+    "vignoble": "Les Pervenches"
+  },
+  {
+    "id": 5,
+    "name": "Le Feu 2022",
+    "description": "Expressif du début à la fin ! Poivre blanc, citron confit, feuilles de lime kaffir. Acidité bien fondue et carambole en bouche. Petits tanins en finale.",
+    "src": "v5.webp",
+    "alt": "Chardonnay",
+    "vignoble": "Les Pervenches"
+  },
+  {
+    "id": 6,
+    "name": "Seyval Chardo",
+    "description": "Robe rosée qui rappelle les derniers millésimes et souligne l'apport judicieux d'une courte macération. Nez sur la poire et les épices avec un fifrelin de litchi.",
+    "src": "v6.webp",
+    "alt": "Seyval et chardonnay",
+    "vignoble": "Les Pervenches"
+  },
+  {
+    "id": 7,
+    "name": "Pipeño",
+    "description": "Jus limpide et éthéré. Arômes de mûre, framboise, violons, zeste d'orange, fumée et clou de girofle.",
+    "src": "v7.webp",
+    "alt": "Carrizal",
+    "vignoble": "Luyt"
+  },
+  {
+    "id": 8,
+    "name": "VNB2 20",
+    "description": "Magnifiquement léger avec un léger spritz à l'ouverture. Nuageux avec des notes acidulées de pomme et de melon en bouche.",
+    "src": "v8.webp",
+    "alt": "Vine-Lo Banco",
+    "vignoble": "Partida Creus"
+  },
+  {
+    "id": 9,
+    "name": "Bėl 1L",
+    "description": "Nectarines salées et herbes exotiques.",
+    "src": "v9.webp",
+    "alt": "Grüner, Müller Thurgau & Welchriesling",
+    "vignoble": "Nestarec"
+  }
+]

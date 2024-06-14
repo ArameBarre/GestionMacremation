@@ -1,0 +1,35 @@
+.descriptionContainer {
+  margin: 30px auto;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+  background-color: lightblue;
+  box-shadow: 2px 2px 4px #36454f;
+}
+
+.description {
+  width: 90%;
+  padding: 10px;
+  line-height: 1.5;
+  color: #36454f;
+  text-align: center;
+}
+
+.image {
+  width: 50%;
+  width: 300px;
+  height: 300px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 4px #36454f;
+}
+
+.wineCardContainer {
+  margin: 20px auto;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+}
